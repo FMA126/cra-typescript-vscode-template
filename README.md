@@ -2,4 +2,4 @@
 
 ## ESlint Prettier & vscode settings
 
-A template to save time
+A template to save time!
